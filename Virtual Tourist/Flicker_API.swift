@@ -11,7 +11,6 @@ import MapKit
 
 
 struct Flicker_API {
-    
     static func photosURL(with coordinates: CLLocationCoordinate2D, pageNo: Int, completion: @escaping ([URL]? , Error? , String?) -> ()){
         
         let minLatitude = max((coordinates.latitude) - 0.5 , -90.0)
