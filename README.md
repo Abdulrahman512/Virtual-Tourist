@@ -9,9 +9,9 @@ The app consist of two pages one for you user to explore the map and the other o
 
 ## How to build
 
-Step 1 love coding 
-Step 2 Code 
-Step 3 Step 1 && 2 
+#### Step 1 love coding 
+#### Step 2 Code 
+#### Step 3 Step 1 && 2 
 
 Okay but for real just apply what you learn from swift like Core Data and Networking and to use API (Flicker)
 
